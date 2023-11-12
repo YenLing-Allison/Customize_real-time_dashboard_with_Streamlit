@@ -1,4 +1,5 @@
 # Customize_real-time_dashboard_with_Streamlit
+https://github.com/YenLing-Allison/Customize_real-time_dashboard_with_Streamlit/tree/main
 
 # What's Streamlit?
 1. Open-source framework
@@ -20,9 +21,9 @@
 3. Share and deploy
 4. Iterate and improve
 
-Dataset: https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study?select=EndInvFINAL12312016.csv
-Data cleaning (SQL): 
-Python scripts: 
+Dataset: final_data.csv
+Data cleaning (SQL): Data Cleaning - Inventory.sql
+Python scripts: dashboard _updated.py
 
 # Handout
 ![handout_front](https://github.com/YenLing-Allison/Customize-real-time-dashboard-with-Streamlit/assets/144725779/6edfab9b-e179-4af6-a820-91a74d1d6155)
@@ -40,6 +41,6 @@ Performance and matric(for example):
 - Inventory value by Product: find out the value of unsold inventory stock in the latest week, seeing how much product value stores have
 - Inventory turnover rate over week: by filtering brand, we calculate inventory turnover ratio to see how many times the inventory is sold over a given period
 ![dashboard_overview](https://github.com/YenLing-Allison/Customize-real-time-dashboard-with-Streamlit/assets/144725779/3d0003e0-157f-4de3-928c-a4fa1cda8980)
-https://trendsmarket.streamlit.app/
+Our Dashboard App link: https://trendsmarket.streamlit.app/
 
 
