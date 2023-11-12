@@ -21,9 +21,9 @@ https://github.com/YenLing-Allison/Customize_real-time_dashboard_with_Streamlit/
 3. Share and deploy
 4. Iterate and improve
 
-Dataset: [final_data.csv](https://github.com/YenLing-Allison/Customize_real-time_dashboard_with_Streamlit/blob/3c306df87a934d6cfd727ec9566cbebb639c4ec8/final_data.csv)
-Data cleaning (SQL): [Data Cleaning - Inventory.sql](https://github.com/YenLing-Allison/Customize_real-time_dashboard_with_Streamlit/blob/3c306df87a934d6cfd727ec9566cbebb639c4ec8/Data%20Cleaning%20-%20Inventory.sql)
-Python scripts: [dashboard _updated.py](https://github.com/YenLing-Allison/Customize_real-time_dashboard_with_Streamlit/blob/3c306df87a934d6cfd727ec9566cbebb639c4ec8/dashboard%20_updated.py)
+Dataset: [final_data.csv](https://github.com/YenLing-Allison/Customize_real-time_dashboard_with_Streamlit/blob/3c306df87a934d6cfd727ec9566cbebb639c4ec8/final_data.csv)  
+Data cleaning (SQL): [Data Cleaning - Inventory.sql](https://github.com/YenLing-Allison/Customize_real-time_dashboard_with_Streamlit/blob/3c306df87a934d6cfd727ec9566cbebb639c4ec8/Data%20Cleaning%20-%20Inventory.sql)  
+Python scripts: [dashboard _updated.py](https://github.com/YenLing-Allison/Customize_real-time_dashboard_with_Streamlit/blob/3c306df87a934d6cfd727ec9566cbebb639c4ec8/dashboard%20_updated.py)  
 
 # Handout
 ![handout_front](https://github.com/YenLing-Allison/Customize-real-time-dashboard-with-Streamlit/assets/144725779/6edfab9b-e179-4af6-a820-91a74d1d6155)
