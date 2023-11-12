@@ -57,7 +57,7 @@ st.markdown(custom_css, unsafe_allow_html=True)
 
 
 # load data using pandas
-df = pd.read_csv('C:/Users/cbyun/OneDrive/Desktop/MSBA 6311/trends/final_data.csv', na_values='NULL')
+df = pd.read_csv('C:/Users/user/OneDrive/DesktopUMN/Summer/6311_Programming_python/Trends Marketplace/final_data.csv', na_values='NULL')
 
 # set dashboard title
 st.title('Dashboard Template')
